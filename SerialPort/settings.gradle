@@ -1,0 +1,3 @@
+rootProject.name='SerialPortApp'
+include ':app'
+include ':testapp'
